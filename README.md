@@ -41,7 +41,7 @@
                               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroForge1&layout=compact&theme=radical" alt="Top Languages"/>
                               </p>
 
-                              ---
+                          
 
                               ## 🐍 Snake Game Animation
 
